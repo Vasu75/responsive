@@ -1,0 +1,39 @@
+.part1>ul{
+	list-style-type: none;
+	padding: 0;
+	margin: 0;
+	overflow: auto;
+}
+.part1>ul>li{
+	float: left;
+	color: blue;
+	text-align: center;
+	padding: 60px;
+	font-size: 30px;
+}
+.part1>ul>li:hoover{
+	color: greenyellow;
+
+
+}
+.header{
+	background: #00F3F7;
+	
+	border: 5px solid #F7D200;
+
+}
+#bio{
+	text-align: center;
+	color:#ff1414;
+	font-size: 30px;
+	background-color: blue;
+}
+.lang{
+	list-style-type: none;
+	border: 2px solid blue;
+	width: 180px;
+    background-color: #ff1eaf;
+    padding: 5px;
+    margin: 5px auto;
+
+}
